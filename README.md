@@ -1,6 +1,8 @@
 # Hi, I'm Ryggs 👋🏾 💻
 
-<img src="https://github.com/Ryggs/Ryggs/blob/master/jr-header-image.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/Ryggs/Ryggs/blob/master/jr-header-gif.gif" alt="banner that says Josh Ryggs - software engineer, Android Developer
+UI/UX Designer, Software Architect, Occasional Speaker alongside a gif">
+
 I am a software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to learn, motivate, educate, and manage a team of developers to build software programs and effectively track changes.
 
 Software developer based in Nairobi, Kenya.
