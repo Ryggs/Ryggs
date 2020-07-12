@@ -11,5 +11,5 @@ I work primarily with Java and related technologies, but I'm always learning and
 
 ## Let's Socialize 🌎:
 - Gaming on  <a href="https://www.twitch.tv/nerdytoken">Twitch</a> 
-- Designs <a href="https://codepen.io/ryggs"> Codepen</a>, <a href="https://www.behance.net/joshuamurigi">Behance</a>, <a href="https://dribbble.com/Ryggs"> Dribbble</a> 
+- UI / UX Designs on <a href="https://codepen.io/ryggs"> Codepen</a>, <a href="https://www.behance.net/joshuamurigi">Behance</a>, <a href="https://dribbble.com/Ryggs"> Dribbble</a> 
 - Socials <a href="https://www.linkedin.com/in/software-engineer-joshua-murigi/">LinkedIn</a> , <a href="https://web.facebook.com/joshua.murigi.98/">Facebook</a> , <a href="https://twitter.com/josh_ryggs/">Twitter</a>
