@@ -23,7 +23,7 @@ I work primarily with Java and related technologies, but I'm always learning and
 <a href="https://t.me/joshryggs">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/hemant.gz/">
+<a href="https://www.instagram.com/josh_ryggs360/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user/ryggs360">
