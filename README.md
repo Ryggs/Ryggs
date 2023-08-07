@@ -1,5 +1,4 @@
-# Hi, I'm Ryggs 👋🏾 💻
-
+# Hi, I'm Ryggs 👋🏾 👨🏿‍💻
 
 I am a Software developer. Welcome.
 ## Let's Socialize 🌎:
