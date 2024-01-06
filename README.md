@@ -2,7 +2,6 @@
 
 Welcome!!
 ## Let's Socialize 🌎:
-- Gaming on  <a href="https://www.twitch.tv/nerdytoken">Twitch</a> 
 - UI / UX Designs on <a href="https://codepen.io/ryggs"> Codepen</a>, <a href="https://www.behance.net/joshuamurigi">Behance</a>, <a href="https://dribbble.com/Ryggs"> Dribbble</a> 
 - Socials  
 
