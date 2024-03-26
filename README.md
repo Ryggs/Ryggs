@@ -11,9 +11,7 @@ Welcome!!
 <a href="https://www.linkedin.com/in/software-engineer-joshua-murigi/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.reddit.com/user/ryggs360">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
